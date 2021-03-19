@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>나의 할일</h1>
+        <h1>나의 할일 관리</h1>
     </div>
 </template>
 
